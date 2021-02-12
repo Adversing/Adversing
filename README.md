@@ -6,7 +6,7 @@ Here you can find all my public projects.
 # 🕔 | Past Experiences
 I worked on these servers (as Developer):
 
-» ❄️ Winter.gg
+» ❄️ Winter.gg | 
 » ⚔️ RevampMC.eu
 
 # 💼 | How can I contact you?
