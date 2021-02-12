@@ -1,16 +1,13 @@
-### Hi there 👋
+# 🕊 | Welcome to my GitHub!
 
-<!--
-**Adversing/Adversing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My IGN is Adversing, I live in Italy and I'm a Java Freelancer. 
+Here you can find all my public projects.
 
-Here are some ideas to get you started:
+# 🕔 | Past Experiences
+I worked on these servers (as Developer):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+» ❄️ Winter.gg
+» ⚔️ RevampMC.eu
+
+# 💼 | How can I contact you?
+You can contact me on Twitter (@Adversing_) or on telegram (@changingthepast)
