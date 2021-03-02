@@ -9,5 +9,8 @@ I worked on these servers (as Developer):
 » ❄️ Winter.gg | 
 » ⚔️ RevampMC.eu
 
+# 💻 | Currently working on...
+I am currently working as developer on a network called "PotPvP".
+
 # 💼 | How can I contact you?
-You can contact me on Twitter (@Adversing_) or on telegram (@changingthepast)
+You can contact me on Twitter (@Adversing_), on Telegram (@changingthepast), or on Discord (Adversing#8422).
