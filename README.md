@@ -7,10 +7,11 @@ Here you can find all my public projects.
 I worked on these servers (as Developer):
 
 » ❄️ Winter.gg | 
-» ⚔️ RevampMC.eu
+» ⚔️ RevampMC.eu |
+» ⚔️ PotPvP Network |
 
 # 💻 | Currently working on...
-I am currently working as developer on a network called "PotPvP".
+I am currently working as developer on various networks as EdenMine, Tharest and RetroHQ.
 
 # 💼 | How can I contact you?
 You can contact me on Twitter (@Adversing_), on Telegram (@changingthepast), or on Discord (Adversing#8422).
