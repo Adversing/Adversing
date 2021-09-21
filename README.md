@@ -8,7 +8,7 @@ I worked on these servers (as Developer):
 
 » ❄️ Winter.gg | 
 » ⚔️ RevampMC.eu |
-» ⚔️ PotPvP Network |
+» ⚔️ PotPvP Network 
 
 # 💻 | Currently working on...
 I am currently working as developer on various networks as EdenMine, Tharest and RetroHQ.
