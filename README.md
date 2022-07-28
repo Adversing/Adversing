@@ -18,4 +18,4 @@ Edenmine.eu as Network Jr. Developer.
 # 💼 | How can I contact you?
 You can contact me on Twitter (@Adversing_), on Telegram (@changingthepast), or on Discord (Adversing#8422).
 
-![Adversing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adversing&show_icons=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Adversing&show_icons=true&theme=dracula)
