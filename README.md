@@ -13,7 +13,7 @@ I worked on these servers (as Developer):
 » ⚔️ PotPvP Network 
 
 # 💻 | Currently working on...
-???
+Edenmine.eu as Network Jr. Developer.
 
 # 💼 | How can I contact you?
 You can contact me on Twitter (@Adversing_), on Telegram (@changingthepast), or on Discord (Adversing#8422).
