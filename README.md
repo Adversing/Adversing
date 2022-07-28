@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%22Impressive%2C+very+nice.+Let's+see+Paul+Allen's+card.%22" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%22Impressive%2C+very+nice.+;Let's+see+Paul+Allen's+card.%22" alt="Typing SVG" /></a>
 <h3  align="center">Hi! I'm Adversing, I live in Italy and I'm a Java Freelancer. Here you can find all my public projects.</h3>
 </p>
 
