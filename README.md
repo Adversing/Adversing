@@ -15,7 +15,6 @@ I am a Freelance Java Developer which is currently working with <b>BukkitAPI</b>
 </br>
 
 📈 **My GitHub Stats:**
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Adversing&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adversing&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
