@@ -4,7 +4,7 @@
 
 I am a Freelance Java Developer which is currently working with <b>BukkitAPI</b>, <b>TelegramBotsAPI</b>, <b>JDA</b> and more...
 
-<img align="right" alt="GIF" src="https://www.growthmentor.com/wp-content/uploads/2020/06/developer.gif?raw=true" width="308" height="218" />
+<img align="right" alt="GIF" src="https://www.growthmentor.com/wp-content/uploads/2020/06/developer.gif?raw=true" width="358" height="268" />
   
 **About me:**
 
