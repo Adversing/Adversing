@@ -8,8 +8,8 @@ I am a Freelance Java Developer which is currently working with <b>BukkitAPI</b>
   
 **About me:**
 
-- ⚔️ &nbsp;&nbsp; I’m currently working on PotPvP Network as Developer;
-- 🙇 &nbsp;&nbsp; I’m currently learning <b>JavaScript</b>;
+- ⚔️ &nbsp;&nbsp; I’m currently working on private stuff;
+- 🙇 &nbsp;&nbsp; I’m currently learning <b>JavaScript</b> and <b>Machine Learning (NLP and Emotion Analysis)</b>;
 - 🙋‍♂️ &nbsp;&nbsp; How to reach me: <a href="https://t.me/changingthepast" target="_blank">Telegram</a> <a href="https://discord.com/users/369846142025859082" target="_blank">Discord</a>;
 
 </br>
