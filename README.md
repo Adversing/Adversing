@@ -3,6 +3,7 @@
 ---
 
 I am a Freelance Java Developer which is currently working with <b>BukkitAPI</b>, <b>TelegramBotsAPI</b>, <b>JDA</b> and more...
+I am also a Software Engineering student @ <a href="https://www.unife.it/en?set_language=en" target="_blank">UniFE</a>.
 
 <img align="right" alt="GIF" src="https://www.growthmentor.com/wp-content/uploads/2020/06/developer.gif?raw=true" width="358" height="268" />
   
