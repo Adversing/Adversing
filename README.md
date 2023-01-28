@@ -9,7 +9,7 @@ I am a Freelance Java Developer which is currently working with <b>BukkitAPI</b>
 **About me:**
 
 - ⚔️ &nbsp;&nbsp; I’m currently working on private stuff;
-- 🙇 &nbsp;&nbsp; I’m currently learning <b>JavaScript</b>, <b>Machine Learning (NLP and Sentiment Analysis)</b>, and <b><a href="https://ceylon-lang.org" target="_blank">Ceylon</a></b>;
+- 🙇 &nbsp;&nbsp; I’m currently learning <b>C</b>, <b>JavaScript</b>, <b>Machine Learning (NLP and Sentiment Analysis)</b>, and <b><a href="https://ceylon-lang.org" target="_blank">Ceylon</a></b>;
 - 🙋‍♂️ &nbsp;&nbsp; How to reach me: <a href="https://t.me/changingthepast" target="_blank">Telegram</a> <a href="https://discord.com/users/369846142025859082" target="_blank">Discord</a>;
 
 </br>
