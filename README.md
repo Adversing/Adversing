@@ -17,5 +17,21 @@ I am also a Software Engineering student @ <a href="https://www.unife.it/en?set_
 
 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adversing&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adversing&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adversing&include_all_commits=true&theme=transparent&hide_border=true&langs_count=8"/>
 </p>
+
+---
+
+📚 **Main Projects:**
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adversing&repo=hChat&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adversing&repo=EdenStaffApp-BOT&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
+---
+
