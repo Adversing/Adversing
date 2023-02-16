@@ -28,8 +28,8 @@ I am also a Software Engineering student @ <a href="https://www.unife.it/en?set_
   <a href="https://github.com/Adversing/hChat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adversing&repo=hChat&hide_border=true&theme=transparent" />
   </a>
-  <a href="https://github.com/Adversung/EdenStaffApp-BOT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adversing&repo=EdenStaffApp-BOT&hide_border=true&theme=transparent" />
+  <a href="https://github.com/Adversung/Decisions4J">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adversing&repo=Decisions4J&hide_border=true&theme=transparent" />
   </a>
 </p>
 
