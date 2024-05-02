@@ -12,7 +12,7 @@ I am also a Software Engineering student @ <a href="https://www.unife.it/en?set_
 - ⚔️ &nbsp;&nbsp; I’m currently working on private stuff;
 - 🙇 &nbsp;&nbsp; I’m currently learning <b>C</b>, <b>JavaScript</b>, <b>Machine Learning (NLP and Sentiment Analysis)</b>, and <b><a href="https://ceylon-lang.org" target="_blank">Ceylon</a></b>;
 - ⚛️ &nbsp;&nbsp; I'm also interested in Quantum Mechanics and its applications.
-- 🙋‍♂️ &nbsp;&nbsp; How to reach me: <a href="https://t.me/bettercallben" target="_blank">Telegram</a> <a href="https://discord.com/users/369846142025859082" target="_blank">Discord</a>;
+- 🙋‍♂️ &nbsp;&nbsp; How to reach me: <a href="https://discord.com/users/369846142025859082" target="_blank">Discord</a>;
 
 </br>
 
