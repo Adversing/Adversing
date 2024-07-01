@@ -42,6 +42,7 @@ I am also a Software Engineering student @ <a href="https://www.unife.it/en?set_
 </br>
 
 <p>
+  <img src="https://img.shields.io/badge/ASM-FFFFFF.svg?style=for-the-badge&logo=asm&logoColor=black"/>
   <img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
