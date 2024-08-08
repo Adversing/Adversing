@@ -2,16 +2,15 @@
 
 ---
 
-I am a Freelance Java Developer which is currently working with <b>BukkitAPI</b>, <b>TelegramBotsAPI</b>, <b>JDA</b> and more...\
-I am also a Software Engineering student @ <a href="https://www.unife.it/en?set_language=en" target="_blank">UniFE</a>.
+I am a Freelance FullStack Developer and I am also a Software Engineering student @ <a href="https://www.unife.it/en?set_language=en" target="_blank">UniFE</a>.
 
 <img align="right" alt="GIF" src="https://www.growthmentor.com/wp-content/uploads/2020/06/developer.gif?raw=true" width="358" height="268" />
   
 ### **About me:**
 
-- ⚔️ &nbsp;&nbsp; I’m currently working on private stuff;
-- 🙇 &nbsp;&nbsp; I’m currently learning <b>C</b>, <b>JavaScript</b>, <b>Machine Learning (NLP and Sentiment Analysis)</b>, and <b><a href="https://ceylon-lang.org" target="_blank">Ceylon</a></b>;
-- ⚛️ &nbsp;&nbsp; I'm also interested in Quantum Mechanics and its applications.
+- ⚔️ &nbsp;&nbsp; I’m currently working @ <b>Arena Studios APS</b>;
+- 🙇 &nbsp;&nbsp; I’m currently studying by myself <b>Artificial Intelligence (ML/DL)</b>;
+- ⚛️ &nbsp;&nbsp; I'm also interested in Relativistic/Non-Relativistic Quantum Mechanics and its applications.
 - 🙋‍♂️ &nbsp;&nbsp; How to reach me: <a href="https://discord.com/users/369846142025859082" target="_blank">Discord</a>;
 
 </br>
