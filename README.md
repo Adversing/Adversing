@@ -119,7 +119,7 @@ I am a Freelance FullStack Developer and I am also a $3^{\text{rd}}$ year Comput
   <img src="https://img.shields.io/badge/SSD-2TB-black?style=for-the-badge"/>
 
 * `Laptop`:
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
   <img src="https://img.shields.io/badge/NVIDIA-GTX%201650Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-8_GB-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SSD-500GB-black?style=for-the-badge"/>
