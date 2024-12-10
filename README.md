@@ -18,9 +18,8 @@ I am a Freelance FullStack Developer and I am also a $3^{\text{rd}}$ year Comput
  ### 📈 **My GitHub Stats:**
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adversing&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
-  <!--
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adversing&include_all_commits=true&theme=transparent&hide_border=true&langs_count=8"/>
-  -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adversing&include_all_commits=true&theme=transparent&hide_border=true&langs_count=3"/>
+  
 </p>
 
 ---
@@ -113,16 +112,10 @@ I am a Freelance FullStack Developer and I am also a $3^{\text{rd}}$ year Comput
 ---
 
 ### 🖥 **Workspaces:**
-* `Main Machine`:
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-RTX%204070%20SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-32_GB-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SSD-2TB-black?style=for-the-badge"/>
+* `Main Machine`: </br>
+![](https://img.shields.io/badge/AMD_Ryzen_9_5900X-000?logo=amd&logoColor=fff)  ![](https://img.shields.io/badge/NVIDIA_RTX_4070_SUPER-000?logo=nvidia&logoColor=fff)  ![](https://img.shields.io/badge/RAM_32GB-0078D4?logoColor=fff)  ![](https://img.shields.io/badge/SSD_2TB-000?logoColor=fff)
 
-* `Laptop`:
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX%201650Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-8_GB-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SSD-500GB-black?style=for-the-badge"/>
+* `Laptop`: </br>
+![](https://img.shields.io/badge/AMD_Ryzen_5_4600H-000?logo=amd&logoColor=fff)  ![](https://img.shields.io/badge/NVIDIA_GTX_1650Ti-000?logo=nvidia&logoColor=fff)  ![](https://img.shields.io/badge/RAM_8GB-0078D4?logoColor=fff)  ![](https://img.shields.io/badge/SSD_500GB-000?logoColor=fff)  
 
 ---
