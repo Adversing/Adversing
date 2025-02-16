@@ -10,16 +10,15 @@ I am a Freelance FullStack Developer and I am also a $3^{\text{rd}}$ year Comput
 
 - ⚔️ &nbsp;&nbsp; I’m currently working @ <b>Arena Studios APS</b>;
 - 🙇 &nbsp;&nbsp; I’m currently studying by myself <b>Artificial Intelligence (ML/DL)</b>;
-- ⚛️ &nbsp;&nbsp; I'm also interested in Relativistic/Non-Relativistic Quantum Mechanics and its applications.
+- ⚛️ &nbsp;&nbsp; I'm also interested in Theoretical Physics.
 - 🙋‍♂️ &nbsp;&nbsp; How to reach me: <a href="https://discord.com/users/369846142025859082" target="_blank">Discord</a>;
 
 </br>
 
  ### 📈 **My GitHub Stats:**
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adversing&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adversing&include_all_commits=true&theme=transparent&hide_border=true&langs_count=3"/>
-  
 </p>
 
 ---
@@ -81,8 +80,9 @@ I am a Freelance FullStack Developer and I am also a $3^{\text{rd}}$ year Comput
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>
 </p>
