@@ -16,7 +16,7 @@ I am a Freelance FullStack Developer and I am also a $3^{\text{rd}}$ year Comput
 </br>
 
  ### 📈 **My GitHub Stats:**
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adversing&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adversing&include_all_commits=true&theme=transparent&hide_border=true&langs_count=3"/>
 </p>
