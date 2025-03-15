@@ -114,9 +114,9 @@ I am a Freelance FullStack Developer and I am also a $3^{\text{rd}}$ year Comput
 
 ### 🖥 **Workspaces:**
 * `Main Machine`: </br>
-![](https://img.shields.io/badge/AMD_Ryzen_9_5900X-000?logo=amd&logoColor=fff)  ![](https://img.shields.io/badge/NVIDIA_RTX_4070_SUPER-000?logo=nvidia&logoColor=fff)  ![](https://img.shields.io/badge/RAM_32GB-0078D4?logoColor=fff)  ![](https://img.shields.io/badge/SSD_2TB-000?logoColor=fff)
+![](https://img.shields.io/badge/AMD_Ryzen_9_5900X-ef0707?logo=amd&logoColor=fff)  ![](https://img.shields.io/badge/NVIDIA_RTX_4070_SUPER-76B900?logo=nvidia&logoColor=fff)  ![](https://img.shields.io/badge/RAM_32GB-0078D4?logoColor=fff)  ![](https://img.shields.io/badge/SSD_2TB-000?logoColor=fff)
 
 * `Laptop`: </br>
-![](https://img.shields.io/badge/AMD_Ryzen_5_4600H-000?logo=amd&logoColor=fff)  ![](https://img.shields.io/badge/NVIDIA_GTX_1650Ti-000?logo=nvidia&logoColor=fff)  ![](https://img.shields.io/badge/RAM_8GB-0078D4?logoColor=fff)  ![](https://img.shields.io/badge/SSD_500GB-000?logoColor=fff)  
+![](https://img.shields.io/badge/AMD_Ryzen_5_4600H-ef0707?logo=amd&logoColor=fff)  ![](https://img.shields.io/badge/NVIDIA_GTX_1650Ti-76B900?logo=nvidia&logoColor=fff)  ![](https://img.shields.io/badge/RAM_8GB-0078D4?logoColor=fff)  ![](https://img.shields.io/badge/SSD_500GB-000?logoColor=fff)  
 
 ---
