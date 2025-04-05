@@ -17,7 +17,7 @@ I am a Freelance FullStack Developer and I am also a $3^{\text{rd}}$ year Comput
 
  ### 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Adversing&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
+  <!--<img height="180em" src="https://streak-stats.demolab.com?user=Adversing&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adversing&include_all_commits=true&theme=transparent&hide_border=true&layout=compact"/>
 </p>
 
