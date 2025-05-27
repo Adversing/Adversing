@@ -6,10 +6,10 @@ FullStack Developer and $3^{\text{rd}}$-year Computer Engineering student at the
 
 ## About Me
 
--   Currently working at [Arena Studios APS](https://github.com/ArenaCraft).
--   Researcher at [Open-Neo](https://github.com/Open-Neo).
--   Independently studying **Artificial Intelligence (Machine Learning/Deep Learning)**.
--   Interested in **Theoretical Physics**.
+-   Currently working at [Arena Studios APS](https://github.com/ArenaCraft) 🇮🇹
+-   Researcher at [Open-Neo](https://github.com/Open-Neo) 🇦🇺/🇺🇸
+-   Independently studying **Artificial Intelligence (Machine Learning/Deep Learning)**
+-   Interested in **Theoretical Physics**
 -   **Contact:** [Discord](https://discord.com/users/369846142025859082)
 
 ---
