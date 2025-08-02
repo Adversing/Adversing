@@ -92,8 +92,8 @@ FullStack Developer and $3^{\text{rd}}$-year Computer Engineering student at the
   <a href="https://github.com/brain4j-org/brain4j">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brain4j-org&repo=brain4j&hide_border=true&theme=transparent&description_lines_count=1"/>
   </a>
-  <a href="https://github.com/Adversing/Libra">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adversing&repo=Libra&hide_border=true&theme=transparent&description_lines_count=1"/>
+  <a href="https://github.com/Adversing/Vanua">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adversing&repo=Vanua&hide_border=true&theme=transparent&description_lines_count=1"/>
   </a>
 </p>
 
