@@ -118,3 +118,4 @@ FullStack Developer and $3^{\text{rd}}$-year Computer Engineering student at the
 </p>
 
 ---
+![](https://hit.yhype.me/github/profile?account_id=60707212)
