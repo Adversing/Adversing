@@ -14,7 +14,7 @@ FullStack Developer and $3^{\text{rd}}$-year Computer Engineering student at the
 
 ---
 
-## My GitHub Stats
+## My GitHub Stats  ![](https://komarev.com/ghpvc/?username=Adversing&label=VIEWS)
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=Adversing&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
@@ -118,4 +118,4 @@ FullStack Developer and $3^{\text{rd}}$-year Computer Engineering student at the
 </p>
 
 ---
-![](https://hit.yhype.me/github/profile?account_id=60707212)
+![](https://komarev.com/ghpvc/?username=Adversing)
