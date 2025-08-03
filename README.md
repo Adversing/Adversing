@@ -101,7 +101,7 @@ FullStack Developer and $3^{\text{rd}}$-year Computer Engineering student at the
 
 ## Workspaces
 
-### Main Machine
+### 🖥 Main Machine
 <p>
   <img src="https://img.shields.io/badge/CPU-AMD_Ryzen_9_5900X-ef0707?logo=amd&logoColor=fff"/>
   <img src="https://img.shields.io/badge/GPU-NVIDIA_RTX_4070_SUPER-76B900?logo=nvidia&logoColor=fff"/>
@@ -109,7 +109,7 @@ FullStack Developer and $3^{\text{rd}}$-year Computer Engineering student at the
   <img src="https://img.shields.io/badge/SSD-2TB-000?logoColor=fff"/>
 </p>
 
-### Laptop
+### 💻 Laptop
 <p>
   <img src="https://img.shields.io/badge/CPU-AMD_Ryzen_5_4600H-ef0707?logo=amd&logoColor=fff"/>
   <img src="https://img.shields.io/badge/GPU-NVIDIA_GTX_1650Ti-76B900?logo=nvidia&logoColor=fff"/>
