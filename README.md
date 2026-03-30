@@ -1,13 +1,13 @@
 # Adversing
 
-FullStack Developer and $3^{\text{rd}}$-year Computer Engineering student at the [University of Ferrara](https://www.unife.it/en).
+FullStack Developer and Computer Engineering student.
 
 ---
 
 ## About Me
 
 -   Currently working at [Arena Studios APS](https://github.com/ArenaCraft) 🇮🇹
--   Researcher at [Open-Neo](https://github.com/ApexionML) 🇦🇺/🇺🇸 & Research Intern @ [CINECA](https://www.cineca.it/en) 🇮🇹
+-   Research Intern @ [CINECA](https://www.cineca.it/en) 🇮🇹
 -   Independently studying **Artificial Intelligence (Machine Learning/Deep Learning)**
 -   Interested in **Theoretical Physics**
 -   **Contact:** [Discord](https://discord.com/users/369846142025859082)
