@@ -89,11 +89,12 @@ FullStack Developer and Computer Engineering student.
 
 <p align="center">
   <a href="https://github.com/brain4j-org/brain4j">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brain4j-org&repo=brain4j&hide_border=true&theme=transparent&description_lines_count=1"/>
-  </a>
-  <a href="https://github.com/Adversing/Vanua">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adversing&repo=Vanua&hide_border=true&theme=transparent&description_lines_count=1"/>
-  </a>
+    Brain4J 
+  </a>🧠
+  <br/>
+  <a href="https://github.com/Adversing/Vela">
+    Vela 
+  </a>⛵️
 </p>
 
 ---
