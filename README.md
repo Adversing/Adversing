@@ -6,8 +6,7 @@ FullStack Developer and Computer Engineering student.
 
 ## About Me
 
--   Currently working at [Arena Studios APS](https://github.com/ArenaCraft) 🇮🇹
--   Research Intern @ [CINECA](https://www.cineca.it/en) 🇮🇹
+-   Currently working @ [CINECA](https://www.cineca.it/en) 🇮🇹
 -   Independently studying **Artificial Intelligence (Machine Learning/Deep Learning)**
 -   Interested in **Theoretical Physics**
 -   **Contact:** [Discord](https://discord.com/users/369846142025859082)
